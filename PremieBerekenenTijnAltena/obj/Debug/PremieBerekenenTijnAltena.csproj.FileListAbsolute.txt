@@ -1,0 +1,10 @@
+C:\Users\tijna\source\repos\PremieBerekenenTijnAltena\bin\Debug\PremieBerekenenTijnAltena.exe.config
+C:\Users\tijna\source\repos\PremieBerekenenTijnAltena\bin\Debug\PremieBerekenenTijnAltena.exe
+C:\Users\tijna\source\repos\PremieBerekenenTijnAltena\bin\Debug\PremieBerekenenTijnAltena.pdb
+C:\Users\tijna\source\repos\PremieBerekenenTijnAltena\obj\Debug\PremieBerekenenTijnAltena.csprojAssemblyReference.cache
+C:\Users\tijna\source\repos\PremieBerekenenTijnAltena\obj\Debug\PremieBerekenenTijnAltena.test.resources
+C:\Users\tijna\source\repos\PremieBerekenenTijnAltena\obj\Debug\PremieBerekenenTijnAltena.Properties.Resources.resources
+C:\Users\tijna\source\repos\PremieBerekenenTijnAltena\obj\Debug\PremieBerekenenTijnAltena.csproj.GenerateResource.cache
+C:\Users\tijna\source\repos\PremieBerekenenTijnAltena\obj\Debug\PremieBerekenenTijnAltena.csproj.CoreCompileInputs.cache
+C:\Users\tijna\source\repos\PremieBerekenenTijnAltena\obj\Debug\PremieBerekenenTijnAltena.exe
+C:\Users\tijna\source\repos\PremieBerekenenTijnAltena\obj\Debug\PremieBerekenenTijnAltena.pdb
